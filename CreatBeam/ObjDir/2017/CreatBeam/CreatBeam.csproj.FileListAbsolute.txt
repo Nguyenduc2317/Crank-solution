@@ -1,0 +1,8 @@
+C:\Users\NguyenVD2\Desktop\CreatBeam\CreatBeam\bin\Debug\CreatBeam.dll
+C:\Users\NguyenVD2\Desktop\CreatBeam\CreatBeam\bin\Debug\CreatBeam.pdb
+C:\Users\NguyenVD2\Desktop\CreatBeam\ObjDir\2017\CreatBeam\CreatBeam.Frm_Main.resources
+C:\Users\NguyenVD2\Desktop\CreatBeam\ObjDir\2017\CreatBeam\CreatBeam.csproj.GenerateResource.cache
+C:\Users\NguyenVD2\Desktop\CreatBeam\ObjDir\2017\CreatBeam\CreatBeam.csproj.CoreCompileInputs.cache
+C:\Users\NguyenVD2\Desktop\CreatBeam\ObjDir\2017\CreatBeam\CreatBeam.dll
+C:\Users\NguyenVD2\Desktop\CreatBeam\ObjDir\2017\CreatBeam\CreatBeam.pdb
+C:\Users\NguyenVD2\Desktop\CreatBeam\ObjDir\2017\CreatBeam\CreatBeam.csprojAssemblyReference.cache

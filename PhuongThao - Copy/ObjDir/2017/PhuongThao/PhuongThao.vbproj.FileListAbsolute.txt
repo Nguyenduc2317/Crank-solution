@@ -1,0 +1,24 @@
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\PhuongThao\bin\Debug\PhuongThao.exe.config
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\PhuongThao\bin\Debug\PhuongThao.exe
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\PhuongThao\bin\Debug\PhuongThao.pdb
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\PhuongThao\bin\Debug\PhuongThao.xml
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.vbprojAssemblyReference.cache
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.Form1.resources
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.Resources.resources
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.vbproj.GenerateResource.cache
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.vbproj.CoreCompileInputs.cache
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.exe
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.xml
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao\ObjDir\2017\PhuongThao\PhuongThao.pdb
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\PhuongThao\bin\Debug\PhuongThao.exe.config
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\PhuongThao\bin\Debug\PhuongThao.exe
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\PhuongThao\bin\Debug\PhuongThao.pdb
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\PhuongThao\bin\Debug\PhuongThao.xml
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.vbprojAssemblyReference.cache
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.Form1.resources
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.Resources.resources
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.vbproj.GenerateResource.cache
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.vbproj.CoreCompileInputs.cache
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.exe
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.xml
+C:\Users\NguyenVD2\Desktop\Crank\PhuongThao - Copy\ObjDir\2017\PhuongThao\PhuongThao.pdb

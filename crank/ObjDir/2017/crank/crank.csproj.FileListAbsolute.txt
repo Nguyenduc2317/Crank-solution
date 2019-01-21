@@ -1,0 +1,13 @@
+C:\Users\NguyenVD2\Desktop\Crank\crank\crank\bin\Debug\crank.exe.config
+C:\Users\NguyenVD2\Desktop\Crank\crank\crank\bin\Debug\crank.exe
+C:\Users\NguyenVD2\Desktop\Crank\crank\crank\bin\Debug\crank.pdb
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.csprojAssemblyReference.cache
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.Form1.resources
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.Properties.Resources.resources
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.csproj.GenerateResource.cache
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.csproj.CoreCompileInputs.cache
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.exe
+C:\Users\NguyenVD2\Desktop\Crank\crank\ObjDir\2017\crank\crank.pdb
+E:\Crank\crank\crank\bin\Debug\crank.exe.config
+E:\Crank\crank\ObjDir\2017\crank\crank.exe
+E:\Crank\crank\ObjDir\2017\crank\crank.pdb

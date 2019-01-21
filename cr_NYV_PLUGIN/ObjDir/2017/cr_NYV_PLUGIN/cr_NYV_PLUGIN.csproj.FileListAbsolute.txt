@@ -1,0 +1,9 @@
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\cr_NYV_PLUGIN\bin\Debug\cr_NYV_PLUGIN.dll
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\cr_NYV_PLUGIN\bin\Debug\cr_NYV_PLUGIN.pdb
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.Frm_Main.resources
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.csproj.GenerateResource.cache
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.csproj.CoreCompileInputs.cache
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.dll
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.pdb
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.Properties.Resources.resources
+C:\Users\NguyenVD2\Desktop\cr_NYV_PLUGIN\ObjDir\2017\cr_NYV_PLUGIN\cr_NYV_PLUGIN.csprojAssemblyReference.cache
